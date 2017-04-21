@@ -1,0 +1,70 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;TWD_1997_TM_Taiwan&quot;,GEOGCS[&quot;GCS_TWD_1997&quot;,DATUM[&quot;TWD_1997&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;False_Easting&quot;,250000.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,121.0],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Latitude_Of_Origin&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,&quot;3826&quot;]]</SRS>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="COMPRESSION">JPEG</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:PolynomialXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.1">
+      <PolynomialOrder>1</PolynomialOrder>
+      <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+        <WKT>PROJCS[&quot;TWD_1997_TM_Taiwan&quot;,GEOGCS[&quot;GCS_TWD_1997&quot;,DATUM[&quot;D_TWD_1997&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;False_Easting&quot;,250000.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,121.0],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Latitude_Of_Origin&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,3826]]</WKT>
+        <XOrigin>-5372600</XOrigin>
+        <YOrigin>-10001100</YOrigin>
+        <XYScale>450310428.58990461</XYScale>
+        <ZOrigin>-100000</ZOrigin>
+        <ZScale>10000</ZScale>
+        <MOrigin>-100000</MOrigin>
+        <MScale>10000</MScale>
+        <XYTolerance>0.001</XYTolerance>
+        <ZTolerance>0.001</ZTolerance>
+        <MTolerance>0.001</MTolerance>
+        <HighPrecision>true</HighPrecision>
+        <WKID>102443</WKID>
+        <LatestWKID>3826</LatestWKID>
+      </SpatialReference>
+      <SourceGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>5165.4604339799007</Double>
+        <Double>-2878.9264477806864</Double>
+        <Double>3480.5832265078352</Double>
+        <Double>-1760.3320333319716</Double>
+        <Double>4806.5869585481068</Double>
+        <Double>-3028.2015537645202</Double>
+        <Double>2711.1570616563986</Double>
+        <Double>-4723.5705101877684</Double>
+        <Double>2706.6277312533512</Double>
+        <Double>-4722.9544150392758</Double>
+        <Double>2188.5424389751533</Double>
+        <Double>-2516.3551721021067</Double>
+        <Double>5229.4284315976056</Double>
+        <Double>-1832.4510156782344</Double>
+        <Double>4803.975028184037</Double>
+        <Double>-3032.8509414856089</Double>
+        <Double>2812.9294820603081</Double>
+        <Double>-3110.8923811087152</Double>
+      </SourceGCPs>
+      <TargetGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>180309.40670280022</Double>
+        <Double>2568640.1112786992</Double>
+        <Double>174615.18499859291</Double>
+        <Double>2572618.4129094365</Double>
+        <Double>179097.75017945541</Double>
+        <Double>2568178.3295951667</Double>
+        <Double>171805.56968985262</Double>
+        <Double>2562609.7904666569</Double>
+        <Double>171802.69240857891</Double>
+        <Double>2562611.9193419437</Double>
+        <Double>170137.00881754977</Double>
+        <Double>2570153.9351901538</Double>
+        <Double>180599.00377929688</Double>
+        <Double>2572166.4468000429</Double>
+        <Double>179083.32036269986</Double>
+        <Double>2568160.4056012998</Double>
+        <Double>172238.58574676758</Double>
+        <Double>2568038.8358104206</Double>
+      </TargetGCPs>
+      <Name />
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
