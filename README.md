@@ -1,6 +1,6 @@
 # viewGeoreferencedJpg
 View geo-referenced Jpeg on web.
-http://gipong.github.io/viewGeoreferencedJpg/
+https://gipong.github.io/view-georeferenced-jpg/
 
 # Usage
 For uploading to the website, you need to create a ZIP archive with .jpg, .jgwx(jgw) and .jpg.aux.xml in it.
